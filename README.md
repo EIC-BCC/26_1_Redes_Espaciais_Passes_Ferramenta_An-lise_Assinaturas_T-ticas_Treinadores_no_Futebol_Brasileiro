@@ -126,6 +126,7 @@ A estrutura principal do repositório está organizada da seguinte forma:
 ├── metrics.py
 ├── EPV_grid.csv
 ├── data/
+├── tcc/
 ├── matches_brasileirao_2019.pkl
 ├── matches_brasileirao_2021.pkl
 ├── matches_brasileirao_2023.pkl
