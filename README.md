@@ -1,2 +1,1 @@
-# 26_1_Redes_Espaciais_Passes_Ferramenta_An-lise_Assinaturas_T-ticas_Treinadores_no_Futebol_Brasileiro
-Redes Espaciais de Passes como Ferramenta para Análise de Assinaturas Táticas de Treinadores no Futebol Brasileiro
+1) pip install -r requirements.txt
