@@ -5,6 +5,7 @@
 **Semestre de Defesa:** 2026-1  
 
 O tcc está com 90MB, não da pra pré-visualizar, apenas baixando (demora um pouco pra começar a baixar)
+
 [PDF do TCC](tcc/TCC_Avaliacao_Treinador.pdf) 
 
 
